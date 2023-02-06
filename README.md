@@ -7,6 +7,7 @@
   <summary>
     <b>📌 O que aprendemos até o bloco 3</b>
   </summary>
+  
   - **1** - Ubuntu
   - **2** - Comandos no terminal
   - **3** - Unix e Bash
@@ -17,6 +18,7 @@
   <summary>
     <b>📌 O que iremos aprender ao longo do curso</b>
   </summary>
+
   - **.** - Responsividade
   - **.** - Javascript
   - **.** - Array e loop For
@@ -27,6 +29,7 @@
   <summary>
     <b>📌 Lições aprendidas por bloco em uma tabela separa por:</b>
   </summary>
+
   - **.** - trilha
   - **.** - bloco
   - **.** - matéria
@@ -39,6 +42,7 @@
   <summary>
     <b>Algumas tags usadas::</b>
   </summary>
+  
   - **.** - head
   - **.** - main
   - **.** - section
