@@ -11,7 +11,9 @@
   - **1** - Ubuntu
   - **2** - Comandos no terminal
   - **3** - Unix e Bash
-  - **etc...**
+  - **etc...** -
+
+
 </details>
 
 <details>
@@ -22,7 +24,9 @@
   - **.** - Responsividade
   - **.** - Javascript
   - **.** - Array e loop For
-  - **etc...**
+  - **etc...** -
+
+
 </details>
 
 <details>
@@ -34,6 +38,7 @@
   - **.** - bloco
   - **.** - matéria
   - **.** - projeto
+  
 </details>
 
 
@@ -48,4 +53,5 @@
   - **.** - section
   - **.** - footer
   _ **e mais etc...**
+
 </details>
