@@ -7,30 +7,30 @@
   <summary>
     <b>📌 O que aprendemos até o bloco 3</b>
   </summary>
-    - **1** - Ubuntu
-    - **2** - Comandos no terminal
-    - **3** - Unix e Bash
-    - **etc...** -
+  - **1** - Ubuntu
+  - **2** - Comandos no terminal
+  - **3** - Unix e Bash
+  - **etc...** -
 </details>
 
 <details>
   <summary>
     <b>📌 O que iremos aprender ao longo do curso</b>
   </summary>
-    - **.** - Responsividade
-    - **.** - Javascript
-    - **.** - Array e loop For
-    - **etc...** -
+  - **.** - Responsividade
+  - **.** - Javascript
+  - **.** - Array e loop For
+  - **etc...** -
 </details>
 
 <details>
   <summary>
     <b>📌 Lições aprendidas por bloco em uma tabela separa por:</b>
   </summary>
-    - **.** - trilha
-    - **.** - bloco
-    - **.** - matéria
-    - **.** - projeto
+  - **.** - trilha
+  - **.** - bloco
+  - **.** - matéria
+  - **.** - projeto
 </details>
 
 
@@ -39,9 +39,9 @@
   <summary>
     <b>Algumas tags usadas::</b>
   </summary>
-    - **.** - head
-    - **.** - main
-    - **.** - section
-    - **.** - footer
-    _**etc...**
+  - **.** - head
+  - **.** - main
+  - **.** - section
+  - **.** - footer
+  _ **etc...**
 </details>
